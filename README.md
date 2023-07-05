@@ -3,10 +3,6 @@
 ### Introduction
 In this project, I tried to build ETL(Extract, Transform, Load) pipeline using the Spotify API on AWS, I retrieved data from Spotify API, Transform it to a desired format, and loaded it into AWS data Store.
 
-### Architecture
-
-
-
 ### Services Used
 
 1. **S3(simple storage service):** Amazon S3 is a s highly scalable object storage service that can store and retrieve any amount of data from anywhere on the web. It is commonly used to store and distribute large media files, data backups, and static website files.
